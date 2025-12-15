@@ -1,0 +1,20 @@
+{
+  "sap_content_content": 0.013000000000000012,
+  "sap_content_motion": 0.0020000000000000018,
+  "sap_motion_motion": 0.004999999999999977,
+  "sap_motion_content": 0.0020000000000000018,
+  "sap_disentanglement": 0.006999999999999992,
+  "content_predicts_content": 0.305,
+  "content_predicts_motion": 0.185,
+  "motion_predicts_motion": 0.425,
+  "motion_predicts_content": 0.13,
+  "content_disentanglement": 0.12,
+  "motion_disentanglement": 0.295,
+  "overall_disentanglement": 0.2075,
+  "mean_abs_correlation": 0.04087908844363601,
+  "max_abs_correlation": 0.5447527407722527,
+  "correlation_frobenius": 0.05940556957020917,
+  "content_preservation": 0.9736694768071175,
+  "motion_correlation": 0.3922180489383552,
+  "swap_quality": 0.6829437628727364
+}
